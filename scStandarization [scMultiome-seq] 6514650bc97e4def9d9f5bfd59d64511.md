@@ -1,8 +1,4 @@
-# scStandarization [scMultiome-seq]
-
-Programs: Cellranger, R, Seurat
-Project: https://www.notion.so/Office-9c560aa95c594ffd9e83ea794d6e8d62
-Topic: Pills
+# scMultiome-seq
 
 ## Pipeline Guide:
 
