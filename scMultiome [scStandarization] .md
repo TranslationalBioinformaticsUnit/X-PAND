@@ -14,7 +14,7 @@
     
     ```r
     cellranger  mkfastq --run=$Path_BCL_Input$RNAtag/  
-    			--output-dir=$F_out/CellRanger/Fastq/RNA/ 
+    		        --output-dir=$F_out/CellRanger/Fastq/RNA/ 
                         --samplesheet=$F_out/config/RNA_SampleSheet_mk.csv
     ```
     
